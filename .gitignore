@@ -1,0 +1,4 @@
+*.swp
+
+*/sessions/*.vim
+*.ssh-agent
